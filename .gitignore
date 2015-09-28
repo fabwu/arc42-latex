@@ -1,3 +1,7 @@
+## Exclude pdf-build
+
+arc42-template.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -69,6 +73,7 @@ acs-*.bib
 *.glg
 *.glo
 *.gls
+*.glsdefs
 
 # gnuplottex
 *-gnuplottex-*
